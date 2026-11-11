@@ -1,10 +1,10 @@
-# Licença Sharadox de Código Aberto · Sharadox Open Source Licence
+# Licença Sharadox de Código Aberto · Sharadox Open Source License
 
 Versão 0.1.0 · Version 0.1.0
 
 A licença de código aberto da Sharadox, escrita ao abrigo da lei portuguesa. Permite utilizar, copiar, modificar e distribuir a obra, para qualquer fim, mantendo o aviso de direitos de autor.
 
-Sharadox's open source licence, written under Portuguese law. It allows using, copying, modifying and distributing the work for any purpose, as long as the copyright notice is kept.
+Sharadox's open source license, written under Portuguese law. It allows using, copying, modifying and distributing the work for any purpose, as long as the copyright notice is kept.
 
 - [`LICENCA.md`](LICENCA.md) — texto original e vinculativo (português)
 - [`LICENSE.md`](LICENSE.md) — informative English translation
